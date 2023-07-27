@@ -448,7 +448,7 @@ To recap, the [useImperativeHandle](https://reactjs.org/docs/hooks-reference.htm
 
 This trick works for changing the state of a component, but it looks a bit unpleasant. We could have accomplished the same functionality with slightly cleaner code using "old React" class-based components. We will take a look at these class components during part 7 of the course material. So far this is the only situation where using React hooks leads to code that is not cleaner than with class components.
 
-There are also [other use cases](https://reactjs.org/docs/refs-and-the-dom.html) for refs than accessing React components.
+There are also [other use cases](https://react.dev/learn/manipulating-the-dom-with-refs) for refs than accessing React components.
 
 You can find the code for our current application in its entirety in the <i>part5-6</i> branch of [this GitHub repository](https://github.com/fullstack-hy2020/part2-notes/tree/part5-6).
 
